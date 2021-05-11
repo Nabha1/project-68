@@ -1,0 +1,11 @@
+img{
+    height:500px;
+    width:600px;
+}
+h1{
+    text-align: center;
+   color:#f0073d;
+}
+body{
+     background-image: linear-gradient(#07e0f0,#03fcca);
+}
